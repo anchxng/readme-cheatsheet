@@ -17,7 +17,9 @@ ___Strong emphasized text___
 `Markup : ___Strong emphasized text___ or ***Strong emphasized text***`
 [Heading-1](#heading-1 "Goto heading-1")
 `Markup: [Heading-1](#heading-1 "Goto heading-1")`
+
 Table like this :
+
 Text goes here | Text goes here
 ---------------|---------------
 Word word word | Word word word
@@ -25,6 +27,7 @@ Word word word | Word word word
 `Text goes here | Text goes here
  ---------------|---------------
  Word word word | Word word word
- Word word word | Word word word `
+ Word word word | Word word word`
+ 
  `code()`
  `Markup: `code()`
