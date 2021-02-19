@@ -44,4 +44,6 @@ Word word word | Word word word
 
 `code()`
 
-`Markup: `code()`
+```
+Markup: `code()`
+```
