@@ -35,12 +35,12 @@ Text goes here | Text goes here
 Word word word | Word word word
 Word word word | Word word word 
 
-
-`Text goes here | Text goes here
- ---------------|---------------
- Word word word | Word word word
- Word word word | Word word word`
- 
+```
+Text goes here | Text goes here
+---------------|---------------
+Word word word | Word word word
+Word word word | Word word word
+```
 
 `code()`
 
